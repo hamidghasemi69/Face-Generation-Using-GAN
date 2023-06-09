@@ -7,7 +7,7 @@ Specifically, I defined and trained a DCGAN architecture for this project. Inter
 
 
 
-* Sixteen generates outputs
+* Sixteen generated faces
 <img width="589" alt="gan_out" src="https://github.com/hamidghasemi69/Face-Generation-Using-GAN/assets/22797186/b9254beb-d212-40f6-982f-f729f1f5b6bd">
 
 
