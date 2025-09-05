@@ -30,13 +30,14 @@ This project focuses on building a Deep Convolutional Generative Adversarial Net
 1. Clone the repository:
    
    `git clone https://github.com/hamidghasemi69/Face-Generation-Using-GAN.git`
+   
    `cd Face-Generation-Using-GAN`
 
-2. Open the Jupyter notebooks:
+3. Open the Jupyter notebooks:
    
    `jupyter notebook`
 
-3. Follow the instructions in the notebooks to build, train, and evaluate the DCGAN model.
+4. Follow the instructions in the notebooks to build, train, and evaluate the DCGAN model.
 
 ---
 
