@@ -8,30 +8,20 @@ This project focuses on building a Deep Convolutional Generative Adversarial Net
 
 ## Project Overview
 
-- **Objective**: Develop a DCGAN model to generate synthetic faces that resemble real human faces.
-- **Dataset**: Utilizes the CelebA dataset, a large-scale face attributes dataset with over 200,000 celebrity images.
-- **Framework**: Built using PyTorch for model development and training.
+- **`Objective`**: Develop a DCGAN model to generate synthetic faces that resemble real human faces.
+- **`Dataset`**: Utilizes the CelebA dataset, a large-scale face attributes dataset with over 200,000 celebrity images.
+- **`Framework`**: Built using PyTorch for model development and training.
 
 ---
 
 ## Repository Structure
 
-- **DCGAN-Training-Solution.ipynb** — Jupyter notebook for building and training the DCGAN model.
-- **dlnd_face_generation_starter.ipynb** — Starter notebook for setting up the environment and initial configurations.
-- **requirements.txt** — File containing the necessary Python packages for the project.
-- **tests.py** — Script for testing the trained model and generating synthetic images.
-- **train_samples.pkl** — Pickle file containing sample training data.
-- **README.md** — This file.
-
----
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following libraries installed:
-
-`pip install -r requirements.txt`
+- **`DCGAN-Training-Solution.ipynb`** — Jupyter notebook for building and training the DCGAN model.
+- **`dlnd_face_generation_starter.ipynb`** — Starter notebook for setting up the environment and initial configurations.
+- **`requirements.txt`** — File containing the necessary Python packages for the project.
+- **`tests.py`** — Script for testing the trained model and generating synthetic images.
+- **`train_samples.pkl`** — Pickle file containing sample training data.
+- **`README.md`** — This file.
 
 ---
 
@@ -53,9 +43,6 @@ Ensure you have the following libraries installed:
 ## Results
 
 The trained model generates synthetic images of human faces that closely resemble real photographs. Sample outputs can be found in the train_samples.pkl file.
-
-# Face-Generation-Using-GAN
-Building a Deep Convolutional Generative Adversarial Network) to Generate Fake Image from Real Celebrity Images.
 
 For those interested in the underlying architecture, the details can be found in the [DCGAN paper](https://arxiv.org/pdf/1511.06434.pdf). Below are examples of the generated images, along with the corresponding generator and discriminator losses.
 
