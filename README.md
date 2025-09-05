@@ -57,7 +57,7 @@ The trained model generates synthetic images of human faces that closely resembl
 # Face-Generation-Using-GAN
 Building a Deep Convolutional Generative Adversarial Network) to Generate Fake Image from Real Celebrity Images.
 
-In this project, I implemented a Deep Convolutional Generative Adversarial Network (DCGAN) using the CelebFaces Attributes dataset (CelebA). The goal of this project was to train a generator network capable of producing realistic images of faces. To achieve this, I defined and trained a DCGAN architecture. For those interested in the underlying architecture, the details can be found in the [DCGAN paper](https://arxiv.org/pdf/1511.06434.pdf). Below are examples of the generated images, along with the corresponding generator and discriminator losses.
+For those interested in the underlying architecture, the details can be found in the [DCGAN paper](https://arxiv.org/pdf/1511.06434.pdf). Below are examples of the generated images, along with the corresponding generator and discriminator losses.
 
 
 * Sixteen generated faces
